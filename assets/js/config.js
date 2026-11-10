@@ -12,7 +12,7 @@ window.RITUAL_CONFIG = {
 
   instagramHandle: "ritualstudios",
   instagramUrl: "https://www.instagram.com/ritualstudios/",
-  instagramDM: "https://ig.me/m/ritualstudios",
+  instagramDM: "https://www.instagram.com/ritualstudios/",
 
   mapsUrl: "https://maps.app.goo.gl/66debxw34wgPGRtBA",
   reviewsUrl: "https://maps.app.goo.gl/66debxw34wgPGRtBA",
