@@ -331,6 +331,7 @@ body.menu-open .menu-toggle span:last-child { top: 22px; transform: rotate(-45de
   box-shadow: 0 16px 40px -14px rgba(43,36,32,.6);
   transition: transform .45s var(--ease), opacity .45s var(--ease);
 }
+.ig-float { border: 1px solid rgba(234,228,218,.28); }
 .ig-float svg { width: 20px; height: 20px; }
 .ig-float:hover { transform: translateY(-3px); }
 .ig-float.is-hidden { opacity: 0; transform: translateY(20px); pointer-events: none; }
